@@ -4,6 +4,6 @@ Simulations
 run the following command on terminal</p>
 $ python3 "filename.py"
 
-Website
-Local Library website is created using so to run the development server and start browsing run following command on terminal
+<p>Website</p>
+<p>Local Library website is created using so to run the development server and start browsing run following command on terminal</p>
 $ python3 manage.py runserver
